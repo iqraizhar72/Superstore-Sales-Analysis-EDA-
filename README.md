@@ -75,7 +75,9 @@ The project includes clear and informative visualizations such as:
 
 ## 📁 Project Structure
 ├── README.md
+
 ├── Superstore Sales Analysis.ipynb
+
 ├── SalesData.csv
 
 ---
@@ -95,9 +97,18 @@ The project includes clear and informative visualizations such as:
 
 ---
 
-## 📬 Contact
-**Your Name**  
-Aspiring Data Analyst  
-📧 Email: your.email@example.com  
-🔗 LinkedIn / GitHub: your profile links
+## 👤 Author
+
+**Iqra Izhar**
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/iqra-izhar-08b8b8330)  
+- 💻 [GitHub](https://github.com/iqraizhar72)  
+- 📧 iqraizhar72@gmail.com
+
+## 🌟 Feedback & Support
+
+Feel free to share suggestions or compliments — your feedback is appreciated!  
+If you found this project useful, please consider giving it a ⭐️.
+
+
 
